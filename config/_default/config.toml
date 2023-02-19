@@ -1,0 +1,4 @@
+baseURL = "https://blog.hashfunc.io"
+languageCode = "ko-kr"
+title = "hashfunc's blog"
+theme = "hugo-theme-monochrome"
